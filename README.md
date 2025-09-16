@@ -48,14 +48,5 @@ The code reads serial messages and drives left/right/center accordingly.
 ## Training Data
 `combinedv5.py` expects Bush and non-Bush images arranged in separate folders and will build `encodings.pkl` on first run.
 
-## Demo Video
-Add `20241210_092719.mp4` (or your own) to the repo. Because it’s large, commit it with **Git LFS**:
-```bash
-git lfs install
-git add path/to/20241210_092719.mp4
-git commit -m "Add demo video"
-git push
-```
-
 ## Credits
-Built for ECEN4632 project work and extended into a full robot demo by Kyle Reed.
+Built for ECEN4632 project work and extended into a full robot demo by Kyle Reed, Brandon Vigil and David Hamaker.
