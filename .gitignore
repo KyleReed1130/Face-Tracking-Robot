@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+.venv/
+venv/
+.env
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Build / cache
+build/
+dist/
+
+# Logs
+*.log
+
+# Arduino
+*.eep
+*.elf
+*.hex
+*.bin
+
+# Videos and data (tracked via LFS instead)
+*.mp4
+*.mov
+*.avi
+*.mkv
